@@ -1,0 +1,7 @@
+C:\Users\Clown\Documents\Projects\CSharpws\ReferansAndValueType\bin\Debug\ReferansAndValueType.exe.config
+C:\Users\Clown\Documents\Projects\CSharpws\ReferansAndValueType\bin\Debug\ReferansAndValueType.exe
+C:\Users\Clown\Documents\Projects\CSharpws\ReferansAndValueType\bin\Debug\ReferansAndValueType.pdb
+C:\Users\Clown\Documents\Projects\CSharpws\ReferansAndValueType\obj\Debug\ReferansAndValueType.csprojAssemblyReference.cache
+C:\Users\Clown\Documents\Projects\CSharpws\ReferansAndValueType\obj\Debug\ReferansAndValueType.csproj.CoreCompileInputs.cache
+C:\Users\Clown\Documents\Projects\CSharpws\ReferansAndValueType\obj\Debug\ReferansAndValueType.exe
+C:\Users\Clown\Documents\Projects\CSharpws\ReferansAndValueType\obj\Debug\ReferansAndValueType.pdb
