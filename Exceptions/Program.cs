@@ -9,8 +9,31 @@ namespace Exceptions
         {
             //ExceptionIntro();
 
+            //CustomExceptionRun();
 
-            
+            HandleException(()=> {
+                CustomException();
+            });
+
+
+            Console.ReadLine();
+        }
+
+        private static void HandleException(Action action)
+        {
+            try
+            {
+                action.Invoke();
+            }
+            catch (Exception exception)
+            {
+
+                Console.WriteLine(exception.Message);
+            }
+        }
+
+        private static void CustomExceptionRun()
+        {
             try
             {
                 CustomException();
@@ -20,11 +43,6 @@ namespace Exceptions
 
                 Console.WriteLine(exception.Message);
             }
-
-
-
-
-            Console.ReadLine();
         }
 
         private static void CustomException()
