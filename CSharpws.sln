@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exceptions", "Exceptions\Ex
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generics.csproj", "{1CD88215-360C-4133-B20C-DF07E02E2774}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atttributes", "Atttributes\Atttributes.csproj", "{F65FB4C6-FE0C-441E-88F8-ED50685F2C1D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{1CD88215-360C-4133-B20C-DF07E02E2774}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1CD88215-360C-4133-B20C-DF07E02E2774}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1CD88215-360C-4133-B20C-DF07E02E2774}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F65FB4C6-FE0C-441E-88F8-ED50685F2C1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F65FB4C6-FE0C-441E-88F8-ED50685F2C1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F65FB4C6-FE0C-441E-88F8-ED50685F2C1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F65FB4C6-FE0C-441E-88F8-ED50685F2C1D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

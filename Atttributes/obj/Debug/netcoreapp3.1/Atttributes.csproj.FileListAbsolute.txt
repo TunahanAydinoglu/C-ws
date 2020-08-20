@@ -1,0 +1,13 @@
+C:\Users\Clown\Documents\Projects\CSharpws\Atttributes\obj\Debug\netcoreapp3.1\Atttributes.csprojAssemblyReference.cache
+C:\Users\Clown\Documents\Projects\CSharpws\Atttributes\obj\Debug\netcoreapp3.1\Atttributes.AssemblyInfoInputs.cache
+C:\Users\Clown\Documents\Projects\CSharpws\Atttributes\obj\Debug\netcoreapp3.1\Atttributes.AssemblyInfo.cs
+C:\Users\Clown\Documents\Projects\CSharpws\Atttributes\obj\Debug\netcoreapp3.1\Atttributes.csproj.CoreCompileInputs.cache
+C:\Users\Clown\Documents\Projects\CSharpws\Atttributes\bin\Debug\netcoreapp3.1\Atttributes.exe
+C:\Users\Clown\Documents\Projects\CSharpws\Atttributes\bin\Debug\netcoreapp3.1\Atttributes.deps.json
+C:\Users\Clown\Documents\Projects\CSharpws\Atttributes\bin\Debug\netcoreapp3.1\Atttributes.runtimeconfig.json
+C:\Users\Clown\Documents\Projects\CSharpws\Atttributes\bin\Debug\netcoreapp3.1\Atttributes.runtimeconfig.dev.json
+C:\Users\Clown\Documents\Projects\CSharpws\Atttributes\bin\Debug\netcoreapp3.1\Atttributes.dll
+C:\Users\Clown\Documents\Projects\CSharpws\Atttributes\bin\Debug\netcoreapp3.1\Atttributes.pdb
+C:\Users\Clown\Documents\Projects\CSharpws\Atttributes\obj\Debug\netcoreapp3.1\Atttributes.dll
+C:\Users\Clown\Documents\Projects\CSharpws\Atttributes\obj\Debug\netcoreapp3.1\Atttributes.pdb
+C:\Users\Clown\Documents\Projects\CSharpws\Atttributes\obj\Debug\netcoreapp3.1\Atttributes.genruntimeconfig.cache
