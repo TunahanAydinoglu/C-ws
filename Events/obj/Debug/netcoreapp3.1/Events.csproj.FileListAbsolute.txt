@@ -1,0 +1,12 @@
+C:\Users\Clown\Documents\Projects\CSharpws\Events\bin\Debug\netcoreapp3.1\Events.exe
+C:\Users\Clown\Documents\Projects\CSharpws\Events\bin\Debug\netcoreapp3.1\Events.deps.json
+C:\Users\Clown\Documents\Projects\CSharpws\Events\bin\Debug\netcoreapp3.1\Events.runtimeconfig.json
+C:\Users\Clown\Documents\Projects\CSharpws\Events\bin\Debug\netcoreapp3.1\Events.runtimeconfig.dev.json
+C:\Users\Clown\Documents\Projects\CSharpws\Events\bin\Debug\netcoreapp3.1\Events.dll
+C:\Users\Clown\Documents\Projects\CSharpws\Events\bin\Debug\netcoreapp3.1\Events.pdb
+C:\Users\Clown\Documents\Projects\CSharpws\Events\obj\Debug\netcoreapp3.1\Events.AssemblyInfoInputs.cache
+C:\Users\Clown\Documents\Projects\CSharpws\Events\obj\Debug\netcoreapp3.1\Events.AssemblyInfo.cs
+C:\Users\Clown\Documents\Projects\CSharpws\Events\obj\Debug\netcoreapp3.1\Events.csproj.CoreCompileInputs.cache
+C:\Users\Clown\Documents\Projects\CSharpws\Events\obj\Debug\netcoreapp3.1\Events.dll
+C:\Users\Clown\Documents\Projects\CSharpws\Events\obj\Debug\netcoreapp3.1\Events.pdb
+C:\Users\Clown\Documents\Projects\CSharpws\Events\obj\Debug\netcoreapp3.1\Events.genruntimeconfig.cache
